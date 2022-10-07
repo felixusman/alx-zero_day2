@@ -1,1 +1,1 @@
-# alx-zero_day
+This repo contains my alx-zero-day activities
